@@ -1,0 +1,160 @@
+@font-face{
+    font-family: 'ProximaNova';
+    src: url('Proxima Nova.ttf');
+    src: url('Proxima Nova.ttf(1)');
+}
+body {
+    font-family: 'ProximaNova';
+    background-color: #0b0b13;
+}
+.blok1 {
+    background-color: #0b0b13;
+    background: url(../img/img-bg1.jpg) center top  no-repeat ;
+    background-size: cover;
+    
+}
+.telephonetop {
+    background-color: #f0cb9e;
+    border-radius: 20px;
+    
+}
+.conttop a{
+    color: #ffffff;
+    margin-top: 30px;
+}
+.conttop a img {
+    max-width: 50px;
+    max-height: auto;
+    margin-left: 7px;
+    margin-bottom: 10px;
+}
+.button3 {
+    background-color: #f0cb9e;
+    border-radius: 30px;
+    color: #000000;
+    text-decoration: none;
+    text-transform: uppercase; 
+}
+.button3:hover {
+    text-decoration: none;
+    color: #ffffff;
+    text-transform: uppercase; 
+}
+.button2 {
+    border-radius: 30px;
+    border-color: #e9ba80 !important;
+    border: 1px solid;
+    padding: 3px;
+    width: 282px;
+}
+.button1 {
+    border-radius: 30px;
+    border-color: #e9ba80 !important;
+    border: 1px solid;
+    padding: 3px;
+    width: 290px;
+    margin-bottom: 25%;
+}
+.blok1header2 {
+    color: #ffffff;
+    text-transform: uppercase; 
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.blok1text {
+    color: #ffffff;
+    margin-bottom: 65px;
+    font-size: 18px;
+}
+.blok1header1 {
+    color: #f0cb9e;
+    margin-top: 40px;
+}
+.blok1m {
+    margin-top: 5%;
+}
+.blok2 {
+    background-color: #0b0b13;
+}
+.blok2header {
+   font-size: 60px; 
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.profile {
+    background-color: #282838;
+    border-radius: 20px;
+   position: relative;
+    padding-bottom: 20px;
+}
+.blok2 a:hover {
+    text-decoration: none;
+}
+.bandr {
+   
+    background-image: linear-gradient(to left  , #0c0c14 , #5a5a60 70%);
+     
+     
+    height: 5px;
+}
+.bandl {
+    background-image: linear-gradient(to right  , #0c0c14 , #5a5a60 70%);
+    height: 5px;
+}
+.bandt {
+    border-bottom: 1px solid #5f5f65;
+}
+.button3 {
+    padding-left: 82px;
+    padding-right: 82px;
+}
+.blok3 {
+     background-color: #0b0b13;
+    background: url(../img/img-bg3.jpg) center top  no-repeat ;
+    background-size: cover;
+}
+.formb img{
+    width: 40px;
+}
+.formb input{
+    width: 120px;
+    border-bottom: 1px solid #f0cb9e;
+    color: #ffffff;
+}
+.formb button {
+    padding: 8px 20px 8px 20px
+}
+.button22 {
+    border-radius: 30px;
+    border-color: #e9ba80 !important;
+    border: 1px solid;
+    padding: 3px;
+    width: 190px;
+    height: 51px;
+}
+.button11{
+    border-radius: 30px;
+    border-color: #e9ba80 !important;
+    border: 1px solid;
+    padding: 3px;
+    width: 198px;
+    height: 59px;
+}
+.blok3m {
+    margin: 25% 0 25% 0;
+}
+.namprofile {
+    position: absolute;
+    bottom: 90px;
+    left: 5%;
+}
+a {
+    outline: none;
+}
+.field-staticEmail1 {
+    float: left;
+}
+.field-staticEmail2 {
+    float: left;
+}
